@@ -1,6 +1,6 @@
 ## Install && Manage
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/Real-kia/kia-marzban-admin/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/MrCjxer/kia-marzban-admin/main/install.sh)
 
 ```
 
@@ -61,9 +61,9 @@ TRX Wallet: TVXbrKsUKWc6BKJ7UAaex4zzPJ7jMEfJNj
 
 ## Preview
 
-![image](https://github.com/Real-kia/kia-marzban-admin/assets/65906956/265296d4-f864-4a42-ad8c-b6b61aa7378b)
+![image](https://github.com/MrCjxer/kia-marzban-admin/assets/65906956/265296d4-f864-4a42-ad8c-b6b61aa7378b)
 
-![image](https://github.com/Real-kia/kia-marzban-admin/assets/65906956/cebe2d0a-f0fd-44d4-b11e-ff34bf02e6a7)
+![image](https://github.com/MrCjxer/kia-marzban-admin/assets/65906956/cebe2d0a-f0fd-44d4-b11e-ff34bf02e6a7)
 
 ---
 
